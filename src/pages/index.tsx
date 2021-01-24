@@ -16,7 +16,7 @@ const Home: React.FC = () => {
   return (
     <Container className="page">
       <Head>
-        <title>Amilton Santos| Portifólio</title>
+        <title>Amilton Santos | Portifólio</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

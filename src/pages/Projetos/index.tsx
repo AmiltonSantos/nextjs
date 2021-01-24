@@ -27,7 +27,7 @@ const Projetos: React.FC = () => {
     {
       nome: 'Clone Nubank',
       type: 'Mobile Ionic 5',
-      link: 'https://github.com/AmiltonSantos/nubank-com-ionic5',
+      link: 'https://stackblitz.com/github/AmiltonSantos/nubank-com-ionic5',
       tecnology: ['Ionic', 'Typescript']
     },
     {

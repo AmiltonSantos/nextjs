@@ -23,12 +23,12 @@ const Curriculo: React.FC = () => {
             <ul>
               <li className="listMain">
                 <span id="curso">TÉCNICO EM ELETRÔNICA</span>
-                <span id="periodo">2014 - Atualmente</span>
+                <span id="periodo">2013 - 2014</span>
                 <span id="local">IPS - MARABÁ - PA</span>
               </li>
               <li className="listMain">
                 <span id="curso">DESIGN GRÁFICO E WEB DESIGN</span>
-                <span id="periodo">2011 - Atualmente</span>
+                <span id="periodo">2011 - 2012</span>
                 <span id="local">MICROLINS - MARABÁ - PA</span>
               </li>
               <li className="listMain">
@@ -42,34 +42,43 @@ const Curriculo: React.FC = () => {
             <h3>Experiência Profissional</h3>
             <ul>
               <li className="listMain">
-                <span id="curso">ESTÁGIARIO DE ENGENHARIA</span>
+                <span id="curso">DESENVOLVERDOR JAVA JÚNIOR</span>
                 <span id="periodo">2019 - Atualmente</span>
-                <span id="local">VALE S/A</span>
+                <span id="local">Artnew Técnologia - Goiânia - GO</span>
                 <ul>
                   <li>
-                    Automatização de processos (Microssoft Flow + PowerApps +
-                    SharePoint)
+                    Desenvolvimento Mobile (Ionic, Angular, TypeScript)
                   </li>
                   <li>
-                    Criação de robôs para modificações em massa no sistema da
-                    empresa (SAP + HP LoadHunner)
+                    Front End do aplicativo (ArtVendas)
                   </li>
                   <li>
                     Acompanhamento de indicadores de manutenção e operação
                   </li>
-                  <li>Análise de falhas de equipamentos</li>
+                  <li>Análise de falhas no aplicativo</li>
                   <li>Programação de manutenção</li>
                 </ul>
               </li>
               <li className="listMain">
-                <span id="curso">AUXILIAR ADMINISTRATIVO</span>
-                <span id="periodo">2016 - 2019</span>
-                <span id="local">R.P.F. Auto Peças</span>
+                <span id="curso">ESPECIALISTA EM SUPORTE DE TI</span>
+                <span id="periodo">2018 - 2019</span>
+                <span id="local">Franquia - CASA DO NOTEBOOK - GOIÂNIA - GO</span>
                 <ul>
-                  <li>Contas a receber</li>
-                  <li>Faturamento</li>
-                  <li>Controle de garantia</li>
-                  <li>Atendimento ao cliente</li>
+                  <li>Instalação e manutenção de Notobooks Desktops</li>
+                  <li>Recuperação de Placas Mãe</li>
+                  <li>Recuperação de Carcaças</li>
+                  <li>Eletrônica em geral em Notebooks</li>
+                </ul>
+              </li>
+              <li className="listMain">
+                <span id="curso">ARTFINALISTA - DESIGN GRÁFICO</span>
+                <span id="periodo">2013 - 2018</span>
+                <span id="local">DENIS BRINDES LTDA</span>
+                <ul>
+                  <li>Criação de artes vetorias e gráficos</li>
+                  <li>Materias personalizados para brindes</li>
+                  <li>Artes para canetas, canecas, camisas e outros</li>
+                  <li>Gravação em chaveiros, carteiras, calendários e outros</li>
                 </ul>
               </li>
             </ul>
