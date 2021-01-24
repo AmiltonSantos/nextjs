@@ -46,7 +46,7 @@ const Projetos: React.FC = () => {
   return (
     <Container className="page">
       <Head>
-        <title>Projetos | Amilton Santos Gomes</title>
+        <title>Projetos | Amilton Santos</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div id="card">

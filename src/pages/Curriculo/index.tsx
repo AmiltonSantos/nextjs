@@ -6,7 +6,7 @@ const Curriculo: React.FC = () => {
   return (
     <Container className="page">
       <Head>
-        <title>Currículo | Amilton Santos Gomes</title>
+        <title>Currículo | Amilton Santos</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div id="card">

@@ -16,12 +16,12 @@ const Home: React.FC = () => {
   return (
     <Container className="page">
       <Head>
-        <title>Amilton Santos Gomes | Portifólio</title>
+        <title>Amilton Santos| Portifólio</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <Link href="/">
-        <h1>Amilton Santos Gomes</h1>
+        <h1>Amilton Santos</h1>
       </Link>
       <h2>
         <span>Developer | Javascript, Typescript, React, Angular</span>

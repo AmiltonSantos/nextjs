@@ -28,7 +28,7 @@ const Sobre: React.FC = () => {
   return (
     <Container className="page">
       <Head>
-        <title>Sobre | Amilton Santos Gomes</title>
+        <title>Sobre | Amilton Santos</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div id="card">

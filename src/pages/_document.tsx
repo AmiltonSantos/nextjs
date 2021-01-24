@@ -8,7 +8,7 @@ export default class Document extends NextDocument {
     return (
       <Html lang="pt">
         <Head>
-          <meta name="title" content="Amilton Santos Gomes | Portifólio" />
+          <meta name="title" content="Amilton Santos | Portifólio" />
           <meta charSet="utf-8" />
 
           <meta name="description" content="Meu portifólio" />

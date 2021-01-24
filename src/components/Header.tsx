@@ -38,7 +38,7 @@ const Header: React.FC = () => {
         {router.pathname !== '/' && (
           <>
             <Link href="/">
-              <h1>Amilton Santos Gomes</h1>
+              <h1>Amilton Santos</h1>
             </Link>
 
             <Nav>
@@ -88,7 +88,7 @@ const Header: React.FC = () => {
       {mobile && (
         <NavMobile>
           <Link href="/">
-            <h1>Amilton Santos Gomes</h1>
+            <h1>Amilton Santos</h1>
           </Link>
 
           <ul>
