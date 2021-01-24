@@ -35,7 +35,7 @@ export default createGlobalStyle`
 
   body, html {
     background-color: #000000;
-    backgroundImage: url(../assets/background.svg);
+    background-image: url('../assets/background.svg');
     background-attachment: fixed;
     background-size: cover;
     /* background by SVGBackgrounds.com */
