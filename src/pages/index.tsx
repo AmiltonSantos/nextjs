@@ -24,7 +24,7 @@ const Home: React.FC = () => {
         <h1>Amilton Santos Gomes</h1>
       </Link>
       <h2>
-        <span>Developer | Computer Engineering Student</span>
+        <span>Developer | Javascript, Typescript, React, Angular</span>
       </h2>
 
       <Nav id="nav">
