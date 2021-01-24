@@ -1,5 +1,4 @@
 import { createGlobalStyle } from 'styled-components';
-import Background from '../assets/background.svg';
 
 export default createGlobalStyle`
   :root {
@@ -36,7 +35,7 @@ export default createGlobalStyle`
 
   body, html {
     background-color: #000000;
-    backgroundImage: url(${Background});
+    backgroundImage: url(../assets/background.svg);
     background-attachment: fixed;
     background-size: cover;
     /* background by SVGBackgrounds.com */
