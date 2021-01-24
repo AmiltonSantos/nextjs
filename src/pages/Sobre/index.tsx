@@ -45,12 +45,8 @@ const Sobre: React.FC = () => {
             <li>
               <FaAngleRight />
               <span>
-                Atualmente sou estudante de Engenharia da Computação na UCL -
-                Faculdade do Centro Leste (Manguinhos, Serra - ES) e faço
-                estágio na Vale apoiando nas disversas áres de PCM. Voltado para
-                a área de tecnologia, trabalho com Automatização de processos e
-                Criação de robôs para modificações em massa no sistema da
-                empresa.
+                Atualmente moro na cidade de Goiânia - Goiás, onde trabalho na empresa
+                Arnew Tecnologia, atuando como desenvolvedor back end, com Angular, Typescript e Ionic.
               </span>
             </li>
             <li>
