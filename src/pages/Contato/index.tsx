@@ -46,9 +46,9 @@ const Contato: React.FC = () => {
               <h3>Telefone</h3>
             </div>
 
-            <a id="link" href={'tel:+5562994497444'}>
+            <a id="link" href={'tel:+5562000000000'}>
               <FaAngleRight />
-              (62) 99449-7444
+              (62) 00000-0000
             </a>
           </div>
           <div id="social">
