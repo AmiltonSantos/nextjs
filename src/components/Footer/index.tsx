@@ -14,7 +14,7 @@ export default function Footer() {
           </p>
           <div className="flex gap-2">
             <Link
-              href="https://github.com/AmiltonSantos"
+              href="https://github.com/AmiltonSantos/"
               target="_blank"
               aria-label="github"
               className="transition-all duration-100 hover:scale-105"
