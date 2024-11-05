@@ -1,6 +1,13 @@
-const withImages = require('next-images')
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "cdn.sanity.io",
+      },
+    ],
+  },
+};
 
-module.exports = withImages({
-  esModule: true
-});
-
+module.exports = nextConfig;
